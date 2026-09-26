@@ -3,6 +3,13 @@ name = "rs-fs-stats2ipc4du"
 version = "0.1.0"
 edition = "2024"
 
+description = "Convert filesystem stat protobuf maps to Arrow IPC format"
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-fs-stats2ipc4du"
+homepage = "https://github.com/takanoriyanagitani/rs-fs-stats2ipc4du"
+documentation = "https://docs.rs/rs-fs-stats2ipc4du/latest"
+keywords = ["filesystem", "stat", "protobuf", "arrow", "ipc"]
+
 exclude = [
 ]
 
